@@ -17,14 +17,12 @@
 
 ### 🚀 About Me
 
-- 🎓 B.Tech in Computer Science & Engineering — *[Your College Name]*
+- 🎓 B.Tech in Computer Science & Engineering — *PSIT Kanpur*
 - 💻 Currently focused on **Full Stack Development (MERN)**
 - 🐍 Sharpening skills in **Python, DSA, and SQL**
 - 📍 Based in Kanpur, Uttar Pradesh, India
-- 🌱 Currently learning: *[e.g. TypeScript / Next.js / System Design]*
 - 💬 Ask me about: *JavaScript, React, Node.js, MongoDB, Express*
-- ⚡ Fun fact: *[add something fun about yourself]*
-
+ 
 ---
 
 ### 🛠️ Tech Stack
@@ -39,10 +37,10 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [PRODIGY_FS_01](https://github.com/adityyapratapsingh22/PRODIGY_FS_01) | *Add a one-line description* | JavaScript |
-| [PRODIGY_FS_02](https://github.com/adityyapratapsingh22/PRODIGY_FS_02) | *Add a one-line description* | JavaScript |
-| [PRODIGY_FS_03](https://github.com/adityyapratapsingh22/PRODIGY_FS_03) | *Add a one-line description* | JavaScript |
-| [PRODIGY_FS_04](https://github.com/adityyapratapsingh22/PRODIGY_FS_04) | *Add a one-line description* | JavaScript |
+| [PRODIGY_FS_01](https://github.com/adityyapratapsingh22/PRODIGY_FS_01) | JavaScript |
+| [PRODIGY_FS_02](https://github.com/adityyapratapsingh22/PRODIGY_FS_02) | JavaScript |
+| [PRODIGY_FS_03](https://github.com/adityyapratapsingh22/PRODIGY_FS_03) | JavaScript |
+| [PRODIGY_FS_04](https://github.com/adityyapratapsingh22/PRODIGY_FS_04) | JavaScript |
 
 ---
 
