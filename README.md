@@ -1,6 +1,6 @@
-<div align="center">
-
 # Hi  there,  I'm  Aditya  Pratap  Singh 👋
+
+<div align="center">
 
 ### Full Stack Developer (MERN) | Python & DSA Enthusiast
 
