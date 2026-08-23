@@ -1,8 +1,8 @@
-# Hi  there,  I'm  Aditya  Pratap  Singh 👋
-
 <div align="center">
 
-### Full Stack Developer (MERN) | Python & DSA Enthusiast
+# Hi  there,  I'm  Aditya  Pratap  Singh 👋
+  
+### Full Stack Developer| Python & DSA Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=Building+full-stack+web+applications;Solving+DSA+problems+daily;Always+learning+something+new)](https://git.io/typing-svg)
 
