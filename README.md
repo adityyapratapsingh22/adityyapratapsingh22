@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hi there, I'm Aditya Pratap Singh 👋
 
 ### Full Stack Developer (MERN) | Python & DSA Enthusiast
@@ -7,6 +9,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-pratap-singh-909263333)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR-TWITTER)
+
+</div>
 
 ---
 
@@ -20,13 +24,19 @@
 
 ---
 
+<div align="center">
+
 ### 🛠️ Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,python,mysql,git,github,vscode)](https://skillicons.dev)
 
+</div>
+
 ---
 
 ### 📌 Featured Projects
+
+<div align="center">
 
 | Project | Description | Tech |
 |---|---|---|
@@ -35,26 +45,43 @@
 | [PRODIGY_FS_03](https://github.com/adityyapratapsingh22/PRODIGY_FS_03) | JavaScript | |
 | [PRODIGY_FS_04](https://github.com/adityyapratapsingh22/PRODIGY_FS_04) | JavaScript | |
 
+</div>
+
 ---
 
-### 📊 GitHub Stats
+<div align="center">
 
-<!--
-  ⚠️ NOTE: These two URLs still point to the SHARED public instances, which is why
-  they've been breaking/going stale. Once you self-host (see steps below),
-  replace "github-readme-stats.vercel.app" with your own Vercel domain,
-  e.g. "your-project-name.vercel.app"
--->
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityyapratapsingh22/adityyapratapsingh22/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityyapratapsingh22/adityyapratapsingh22/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adityyapratapsingh22/adityyapratapsingh22/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 GitHub Stats
 
 [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityyapratapsingh22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/adityyapratapsingh22)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityyapratapsingh22&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/adityyapratapsingh22)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityyapratapsingh22&theme=tokyonight&hide_border=true)](https://github.com/adityyapratapsingh22)
 
+</div>
+
 ---
+
+<div align="center">
 
 ### 📫 Let's Connect
 
 [LinkedIn](https://www.linkedin.com/in/aditya-pratap-singh-909263333) • [Email](mailto:2k24.cs1b.2413601@example.com) • [Portfolio](https://your-portfolio.com)
 
 *Thanks for stopping by! ⭐ Feel free to explore my repos.*
+
+</div>
