@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Aditya Pratap Singh 👋
+# Hi  there,  I'm  Aditya  Pratap  Singh 👋
 
 ### Full Stack Developer (MERN) | Python & DSA Enthusiast
 
@@ -66,9 +66,6 @@
 <div align="center">
 
 ### 📊 GitHub Stats
-
-[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityyapratapsingh22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/adityyapratapsingh22)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityyapratapsingh22&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/adityyapratapsingh22)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityyapratapsingh22&theme=tokyonight&hide_border=true)](https://github.com/adityyapratapsingh22)
 
