@@ -17,7 +17,7 @@
 ### 🚀 About Me
 
 - 🎓 B.Tech in Computer Science & Engineering — *PSIT Kanpur*
-- 💻 Currently focused on **Full Stack Development (MERN)**
+- 💻 Currently focused on **Full Stack Development**
 - 🐍 Sharpening skills in **Python, DSA, and SQL**
 - 📍 Based in Kanpur, Uttar Pradesh, India
 - 💬 Ask me about: *JavaScript, React, Node.js, MongoDB, Express*
