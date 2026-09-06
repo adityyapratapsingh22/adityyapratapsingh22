@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=ADITYA+PRATAP+SINGH_;FULL+STACK+DEVELOPER;PYTHON+%26+DSA+ENTHUSIAST" alt="Typing SVG" />
 
-**B.Tech CSE @ PSIT Kanpur | Full-Stack Developer | Applied Deep Learning — Computer Vision & Deepfake Detection | Python · DSA · SQL**
+**B.Tech CSE @ PSIT Kanpur | Full-Stack Developer (MERN) | Applied Deep Learning — Computer Vision & Deepfake Detection | Python · DSA · SQL**
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-pratap-singh-909263333)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityyapratapsingh22)
@@ -24,15 +24,18 @@
 - 📍 Based in **Kanpur, Uttar Pradesh, India**
 - 💬 Ask me about: **JavaScript, React, Node.js, MongoDB, Express, PyTorch**
 
-
 ## currently:
 
- - building: "Full-stack apps + applied AI/CV systems"
- - learning: "Data Structures & Algorithms, SQL, System Design fundamentals"
- - stack: "React · Node.js · Express · MongoDB · Python · PyTorch"
+  - building: "Full-stack apps + applied AI/CV systems"
+  - learning: "Data Structures & Algorithms, SQL, System Design fundamentals"
+  - stack: "React · Node.js · Express · MongoDB · Python · PyTorch"
+
+
 ---
 
 ## 🎓 Education
+
+<div align="center">
 
 | | |
 |---|---|
@@ -40,15 +43,21 @@
 | **Institute** | PSIT Kanpur |
 | **Location** | Kanpur, Uttar Pradesh, India |
 
+</div>
+
 ---
 
 ## 🛠️ How I Build
+
+<div align="center">
 
 | Languages | Frontend | Backend | Database | AI / ML | Tools |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | <img src="https://skillicons.dev/icons?i=python" width="40"/><br>Python | <img src="https://skillicons.dev/icons?i=react" width="40"/><br>React | <img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br>Node.js | <img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br>MongoDB | <img src="https://skillicons.dev/icons?i=pytorch" width="40"/><br>PyTorch | <img src="https://skillicons.dev/icons?i=git" width="40"/><br>Git |
 | <img src="https://skillicons.dev/icons?i=js" width="40"/><br>JavaScript | <img src="https://skillicons.dev/icons?i=html" width="40"/><br>HTML5 | <img src="https://skillicons.dev/icons?i=express" width="40"/><br>Express | <img src="https://skillicons.dev/icons?i=sqlite" width="40"/><br>SQLite | <img src="https://skillicons.dev/icons?i=opencv" width="40"/><br>OpenCV | <img src="https://skillicons.dev/icons?i=github" width="40"/><br>GitHub |
 | | <img src="https://skillicons.dev/icons?i=css" width="40"/><br>CSS3 | <img src="https://skillicons.dev/icons?i=fastapi" width="40"/><br>FastAPI | | | <img src="https://skillicons.dev/icons?i=vscode" width="40"/><br>VS Code |
+
+</div>
 
 ---
 
