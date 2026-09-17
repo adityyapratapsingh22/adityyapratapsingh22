@@ -63,16 +63,16 @@
 
 ## 📌 Pinned Repositories
 
-| Repository | Description |
+| Repository   | Description |
 |---|---|
-| 🚦 [**AI_Traffic_Analyzer**](https://github.com/adityyapratapsingh22/AI_Traffic_Analyzer) | AI-powered traffic video analyzer — detects, tracks, counts, and classifies vehicles with YOLO, estimates density, and visualizes it on a live authenticated dashboard |
-| 🕵️ [**Deepfake_Detector**](https://github.com/adityyapratapsingh22/Deepfake_Detector) | Full-stack deepfake detection system — dual-branch EfficientNet + FFT image classifier, video pipeline, Grad-CAM explainability |
+| 🚦 [**YatayatAI**](https://github.com/adityyapratapsingh22/AI_Traffic_Analyzer) | AI-powered traffic video analyzer — detects, tracks, counts, and classifies vehicles with YOLO, estimates density, and visualizes it on a live authenticated dashboard |
+| 🕵️ [**Sentinel**](https://github.com/adityyapratapsingh22/Deepfake_Detector) | Full-stack deepfake detection system — dual-branch EfficientNet + FFT image classifier, video pipeline, Grad-CAM explainability |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. 🚦 AI Traffic Analyzer
+### 1. 🚦 YatayatAI - AI Traffic Analyzer
 
 🔗 **Repo:** [View Source](https://github.com/adityyapratapsingh22/AI_Traffic_Analyzer)
 
@@ -82,7 +82,7 @@
 - Shipped a **React + TypeScript** frontend (Vite, Tailwind v4) with a live dashboard, searchable session history (CSV/PDF export), and a full settings/profile system.
 - Found and fixed a critical detection bug where **pedestrians were being counted as vehicles** — added a strict vehicle-class allowlist to the pipeline.
 
-### 2. 🕵️ Deepfake Detector
+### 2. 🕵️ Sentinel - Deepfake Detector
 
 🔗 **Repo:** [View Source](https://github.com/adityyapratapsingh22/Deepfake_Detector)
 
