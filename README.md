@@ -65,7 +65,7 @@
 
 | Repository   | Description |
 |---|---|
-| 🚦 [**YatayatAI**](https://github.com/adityyapratapsingh22/AI_Traffic_Analyzer) [**Working Link**](https://yatayat-ai.vercel.app/) | AI-powered traffic video analyzer — detects, tracks, counts, and classifies vehicles with YOLO, estimates density, and visualizes it on a live authenticated dashboard |
+| 🚦 [**YatayatAI**](https://github.com/adityyapratapsingh22/AI_Traffic_Analyzer)  | AI-powered traffic video analyzer — detects, tracks, counts, and classifies vehicles with YOLO, estimates density, and visualizes it on a live authenticated dashboard |
 | 🕵️ [**Sentinel**](https://github.com/adityyapratapsingh22/Deepfake_Detector) | Full-stack deepfake detection system — dual-branch EfficientNet + FFT image classifier, video pipeline, Grad-CAM explainability |
 
 ---
@@ -75,6 +75,8 @@
 ### 1. 🚦 YatayatAI - AI Traffic Analyzer
 
 🔗 **Repo:** [View Source](https://github.com/adityyapratapsingh22/AI_Traffic_Analyzer)
+
+🔗 **Working Link** [View Source](https://yatayat-ai.vercel.app/)
 
 - Built an **AI-powered traffic analytics platform** that detects, tracks, and classifies vehicles from video using **YOLOv8 + ByteTrack**, estimating live traffic density and streaming results over an **authenticated WebSocket**.
 - Implemented full **JWT authentication** (access + refresh tokens, bcrypt hashing, email-based password reset) so every session, report, and analytics view is scoped to its owner.
