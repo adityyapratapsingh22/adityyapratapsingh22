@@ -21,14 +21,15 @@
 - 💻 Currently focused on **Full Stack Development** (MERN)
 - 🐍 Sharpening skills in **Python, DSA, and SQL**
 - 🧠 Building applied **Computer Vision / Deep Learning** projects — object detection, deepfake classification, model explainability
+- ☁️ Comfortable taking a project from local dev to a real deployed app — Dockerized backends, Render, Vercel, cloud (Supabase) databases
 - 📍 Based in **Kanpur, Uttar Pradesh, India**
-- 💬 Ask me about: **JavaScript, React, Node.js, MongoDB, Express, PyTorch**
+- 💬 Ask me about: **JavaScript, React, Node.js, MongoDB, Express, PyTorch, Docker**
 
 ## currently:
 
   - building: "Full-stack apps + applied AI/CV systems"
   - learning: "Data Structures & Algorithms, SQL, System Design fundamentals"
-  - stack: "React · Node.js · Express · MongoDB · Python · PyTorch"
+  - stack: "React · Node.js · Express · MongoDB · PostgreSQL · Python · PyTorch · Docker"
 
 
 ---
@@ -51,11 +52,12 @@
 
 <div align="center">
 
-| Languages | Frontend | Backend | Database | AI / ML | Tools |
+| Languages | Frontend | Backend | Database | AI / ML | DevOps & Tools |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=python" width="40"/><br>Python | <img src="https://skillicons.dev/icons?i=react" width="40"/><br>React | <img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br>Node.js | <img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br>MongoDB | <img src="https://skillicons.dev/icons?i=pytorch" width="40"/><br>PyTorch | <img src="https://skillicons.dev/icons?i=git" width="40"/><br>Git |
-| <img src="https://skillicons.dev/icons?i=js" width="40"/><br>JavaScript | <img src="https://skillicons.dev/icons?i=html" width="40"/><br>HTML5 | <img src="https://skillicons.dev/icons?i=express" width="40"/><br>Express | <img src="https://skillicons.dev/icons?i=sqlite" width="40"/><br>SQLite | <img src="https://skillicons.dev/icons?i=opencv" width="40"/><br>OpenCV | <img src="https://skillicons.dev/icons?i=github" width="40"/><br>GitHub |
-| | <img src="https://skillicons.dev/icons?i=css" width="40"/><br>CSS3 | <img src="https://skillicons.dev/icons?i=fastapi" width="40"/><br>FastAPI | | | <img src="https://skillicons.dev/icons?i=vscode" width="40"/><br>VS Code |
+| <img src="https://skillicons.dev/icons?i=python" width="40"/><br>Python | <img src="https://skillicons.dev/icons?i=react" width="40"/><br>React | <img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br>Node.js | <img src="https://skillicons.dev/icons?i=postgres" width="40"/><br>PostgreSQL | <img src="https://skillicons.dev/icons?i=pytorch" width="40"/><br>PyTorch | <img src="https://skillicons.dev/icons?i=git" width="40"/><br>Git |
+| <img src="https://skillicons.dev/icons?i=js" width="40"/><br>JavaScript | <img src="https://skillicons.dev/icons?i=html" width="40"/><br>HTML5 | <img src="https://skillicons.dev/icons?i=express" width="40"/><br>Express | <img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br>MongoDB | <img src="https://skillicons.dev/icons?i=opencv" width="40"/><br>OpenCV | <img src="https://skillicons.dev/icons?i=github" width="40"/><br>GitHub |
+| | <img src="https://skillicons.dev/icons?i=css" width="40"/><br>CSS3 | <img src="https://skillicons.dev/icons?i=fastapi" width="40"/><br>FastAPI | <img src="https://skillicons.dev/icons?i=sqlite" width="40"/><br>SQLite | | <img src="https://skillicons.dev/icons?i=docker" width="40"/><br>Docker |
+| | | | | | <img src="https://skillicons.dev/icons?i=vercel" width="40"/><br>Vercel |
 
 </div>
 
@@ -83,6 +85,7 @@
 - Built **server-generated PDF reports** (ReportLab + Matplotlib) and **cross-session aggregate analytics** via SQLAlchemy — busiest session, density distribution, day-by-day trends.
 - Shipped a **React + TypeScript** frontend (Vite, Tailwind v4) with a live dashboard, searchable session history (CSV/PDF export), and a full settings/profile system.
 - Found and fixed a critical detection bug where **pedestrians were being counted as vehicles** — added a strict vehicle-class allowlist to the pipeline.
+- **Deployed it as a real cloud app**: Dockerized the FastAPI backend onto **Render** with automatic CUDA/CPU fallback (downscaling + frame-skipping to fit a 512MB free tier), shipped the frontend on **Vercel**, and built WebSocket auto-reconnect with backoff to gracefully ride out cold starts.
 
 ### 2. 🕵️ Sentinel - Deepfake Detector
 
