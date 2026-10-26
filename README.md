@@ -1,180 +1,157 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=ADITYA+PRATAP+SINGH_;FULL+STACK+DEVELOPER;PYTHON+%26+DSA+ENTHUSIAST" alt="Typing SVG" />
+# ADITYA PRATAP SINGH
+**Full-Stack Developer · Kanpur, India**
 
-**B.Tech CSE @ PSIT Kanpur | Full-Stack Developer | Applied Deep Learning — Computer Vision & Deepfake Detection | Python · DSA · SQL**
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-pratap-singh-909263333)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityyapratapsingh22)
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2k24.cs1b.2413601@gmail.com)
+<a href="https://github.com/adityyapratapsingh22" target="_blank"><img src="https://img.shields.io/badge/GITHUB-111a27?style=for-the-badge&logo=github&logoColor=9fb0c4"/></a>
+<a href="https://www.linkedin.com/in/aditya-pratap-singh-909263333/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-111a27?style=for-the-badge&logo=linkedin&logoColor=4aa8ff"/></a>
+<a href="mailto:2k24.cs1b.2413601@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-111a27?style=for-the-badge&logo=gmail&logoColor=e8a33d"/></a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=adityyapratapsingh22&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/adityyapratapsingh22?style=for-the-badge&logo=github&label=FOLLOWERS&color=00F7FF)
+<br/><br/>
 
-</div>
-
----
-
-## 🚀 About Me
-
-- 🎓 **B.Tech in Computer Science & Engineering** — PSIT Kanpur
-- 💻 Currently focused on **Full Stack Development** (MERN)
-- 🐍 Sharpening skills in **Python, DSA, and SQL**
-- 🧠 Building applied **Computer Vision / Deep Learning** projects — object detection, deepfake classification, model explainability
-- ☁️ Comfortable taking a project from local dev to a real deployed app — Dockerized backends, Render, Vercel, cloud (Supabase) databases
-- 📍 Based in **Kanpur, Uttar Pradesh, India**
-- 💬 Ask me about: **JavaScript, React, Node.js, MongoDB, Express, PyTorch, Docker**
-
-## currently:
-
-  - building: "Full-stack apps + applied AI/CV systems"
-  - learning: "Data Structures & Algorithms, SQL, System Design fundamentals"
-  - stack: "React · Node.js · Express · MongoDB · PostgreSQL · Python · PyTorch · Docker"
-
-
----
-
-## 🎓 Education
-
-<div align="center">
-
-| | |
-|---|---|
-| **Degree** | B.Tech, Computer Science & Engineering |
-| **Institute** | PSIT Kanpur |
-| **Location** | Kanpur, Uttar Pradesh, India |
+<img src="https://komarev.com/ghpvc/?username=adityyapratapsingh22&style=flat-square&color=4aa8ff&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/adityyapratapsingh22?style=flat-square&color=111a27&labelColor=0a0f18&label=FOLLOWERS&logo=github&logoColor=9fb0c4"/>
+<img src="https://img.shields.io/github/stars/adityyapratapsingh22?style=flat-square&color=111a27&labelColor=0a0f18&label=STARS&logo=github&logoColor=9fb0c4"/>
 
 </div>
 
----
+## 01 · Profile
 
-## 🛠️ How I Build
+<table>
+<tr>
+<td width="60%" valign="top">
 
-<div align="center">
+I'm a **Full-Stack Developer** and B.Tech Computer Science student who builds AI-powered products end to end: computer-vision and deep-learning models in Python, served through APIs and surfaced in responsive React dashboards.
 
-| Languages | Frontend | Backend | Database | AI / ML | DevOps & Tools |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=python" width="40"/><br>Python | <img src="https://skillicons.dev/icons?i=react" width="40"/><br>React | <img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br>Node.js | <img src="https://skillicons.dev/icons?i=postgres" width="40"/><br>PostgreSQL | <img src="https://skillicons.dev/icons?i=pytorch" width="40"/><br>PyTorch | <img src="https://skillicons.dev/icons?i=git" width="40"/><br>Git |
-| <img src="https://skillicons.dev/icons?i=js" width="40"/><br>JavaScript | <img src="https://skillicons.dev/icons?i=html" width="40"/><br>HTML5 | <img src="https://skillicons.dev/icons?i=express" width="40"/><br>Express | <img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br>MongoDB | <img src="https://skillicons.dev/icons?i=opencv" width="40"/><br>OpenCV | <img src="https://skillicons.dev/icons?i=github" width="40"/><br>GitHub |
-| | <img src="https://skillicons.dev/icons?i=css" width="40"/><br>CSS3 | <img src="https://skillicons.dev/icons?i=fastapi" width="40"/><br>FastAPI | <img src="https://skillicons.dev/icons?i=sqlite" width="40"/><br>SQLite | | <img src="https://skillicons.dev/icons?i=docker" width="40"/><br>Docker |
-| | | | | | <img src="https://skillicons.dev/icons?i=vercel" width="40"/><br>Vercel |
+**My approach:** get the data model and API contract right first, build security in from the start, make model decisions explainable, and ship something a person can actually run and use.
 
-</div>
+**What I enjoy building:**  
+→ Computer-vision systems that turn raw video into live analytics  
+→ Deep-learning classifiers with explainable outputs  
+→ Authenticated full-stack apps with APIs, history and dashboards  
+→ Real-time and CRUD-heavy tools with proper RBAC
 
----
+**Currently strengthening:** DSA, Python and SQL.
 
-## 📌 Pinned Repositories
+> *"Build with purpose. Ship with discipline. Improve relentlessly."*
 
-| Repository   | Description |
-|---|---|
-| 🚦 [**YatayatAI**](https://github.com/adityyapratapsingh22/AI_Traffic_Analyzer)  | AI-powered traffic video analyzer — detects, tracks, counts, and classifies vehicles with YOLO, estimates density, and visualizes it on a live authenticated dashboard |
-| 🕵️ [**Sentinel**](https://github.com/adityyapratapsingh22/Deepfake_Detector) | Full-stack deepfake detection system — dual-branch EfficientNet + FFT image classifier, video pipeline, Grad-CAM explainability |
-
----
-
-## 🚀 Featured Projects
-
-### 1. 🚦 YatayatAI - AI Traffic Analyzer
-
-🔗 **Repo:** [View Source](https://github.com/adityyapratapsingh22/AI_Traffic_Analyzer)
-
-🔗 **Working Link** [View Source](https://yatayat-ai.vercel.app/)
-
-- Built an **AI-powered traffic analytics platform** that detects, tracks, and classifies vehicles from video using **YOLOv8 + ByteTrack**, estimating live traffic density and streaming results over an **authenticated WebSocket**.
-- Implemented full **JWT authentication** (access + refresh tokens, bcrypt hashing, email-based password reset) so every session, report, and analytics view is scoped to its owner.
-- Built **server-generated PDF reports** (ReportLab + Matplotlib) and **cross-session aggregate analytics** via SQLAlchemy — busiest session, density distribution, day-by-day trends.
-- Shipped a **React + TypeScript** frontend (Vite, Tailwind v4) with a live dashboard, searchable session history (CSV/PDF export), and a full settings/profile system.
-- Found and fixed a critical detection bug where **pedestrians were being counted as vehicles** — added a strict vehicle-class allowlist to the pipeline.
-- **Deployed it as a real cloud app**: Dockerized the FastAPI backend onto **Render** with automatic CUDA/CPU fallback (downscaling + frame-skipping to fit a 512MB free tier), shipped the frontend on **Vercel**, and built WebSocket auto-reconnect with backoff to gracefully ride out cold starts.
-
-### 2. 🕵️ Sentinel - Deepfake Detector
-
-🔗 **Repo:** [View Source](https://github.com/adityyapratapsingh22/Deepfake_Detector)
-
-- Built a **dual-branch deepfake classifier** (EfficientNet-B0 + a 2D-FFT frequency-analysis branch) that flags manipulated images and videos, with **Grad-CAM** explaining every prediction.
-- Designed the **video pipeline** independently — frame sampling, per-frame inference, and aggregation-strategy testing (mean / max / variance) — reusing the image classifier as a per-frame feature extractor.
-- Ran a **cross-generator generalization test**: hit **92.0% accuracy / 0.974 AUC-ROC** in-distribution, but watched fake-recall on an unseen generator (Stable Diffusion) collapse to **2.3%** — documented honestly instead of hidden behind one inflated number.
-- Diagnosed a **0% recall on unseen face-swap video**, traced it to a training-distribution mismatch, and recovered it to **82% recall** via targeted fine-tuning on a held-out video split.
-- Shipped the model behind a full-stack app: **FastAPI** backend (`/predict/image`, `/predict/video`), full auth + SQLite persistence, real SHA-256 detection history, and a **React** frontend (Landing, Login, Lab, History, Analytics, Profile).
-
----
-
-</div>
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityyapratapsingh22&theme=react-dark&hide_border=true" />
-
-</div>
-
-## 🔥 Streak Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=adityyapratapsingh22&theme=highcontrast&hide_border=true" />
-
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/adityyapratapsingh22/adityyapratapsingh22/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-
-</div>
-
-<details>
-<summary>⚙️ Setup (one-time — needed to activate the snake)</summary>
-
-Add this file at `.github/workflows/snake.yml` in your **profile repo** (`adityyapratapsingh22/adityyapratapsingh22`):
+</td>
+<td width="40%" valign="top">
 
 ```yaml
-name: Generate Snake Animation
+profile:
+  role:      Full-Stack Developer
+  location:  Kanpur, Uttar Pradesh, India
+  education: B.Tech CSE, PSIT Kanpur
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  push:
-    branches:
-      - main
-  workflow_dispatch: {}
+status:
+  availability: [open to internships / SDE roles]
+  focus:        full-stack apps with applied AI
 
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+practice:
+  building:  YatayatAi, Sentinel
+  learning:  DSA, Python, SQL
 ```
 
-Commit, push to `main`, and the snake image above will populate automatically once the Action runs.
-</details>
+</td>
+</tr>
+</table>
 
----
+### Operating principles
+
+- **Ship, then refine.** Individual projects that run end to end, from model to API to dashboard.
+- **Keep intelligence explainable.** Grad-CAM heatmaps show what the deepfake detector is looking at.
+- **Test generalisation, not just accuracy.** Sentinel is evaluated across different deepfake generators, not only the one it was trained on.
+- **Security is structural.** Real authentication, per-account data, JWT, RBAC, hashed passwords and rate limiting from day one.
+
+## 02 · Education
+
+| Programme | Institution | Result | Period |
+|:---|:---|:---:|:---:|
+| **B.Tech, Computer Science & Engineering** | Pranveer Singh Institute of Technology, Kanpur | CGPA **7.5** - 3rd year | 2024 — 2028 |
+| **Class XII** | Lzebra Public School, Kota | **80%** | 2024 |
+| **Class X** | Shiv Jyoti Convent School, Kota | **95%** | 2022 |
+
+## 03 · Technical Systems
 
 <div align="center">
 
-## 📫 Connect With Me
+| Languages | Frontend | Backend | Data | AI / Vision | Tooling |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=python" width="34"/><br/>Python | <img src="https://skillicons.dev/icons?i=react" width="34"/><br/>React | <img src="https://skillicons.dev/icons?i=fastapi" width="34"/><br/>FastAPI | <img src="https://skillicons.dev/icons?i=sqlite" width="34"/><br/>SQLite | <img src="https://skillicons.dev/icons?i=pytorch" width="34"/><br/>PyTorch | <img src="https://skillicons.dev/icons?i=git" width="34"/><br/>Git |
+| <img src="https://skillicons.dev/icons?i=ts" width="34"/><br/>TypeScript | <img src="https://skillicons.dev/icons?i=vite" width="34"/><br/>Vite | <img src="https://skillicons.dev/icons?i=nodejs" width="34"/><br/>Node.js | <img src="https://skillicons.dev/icons?i=mongodb" width="34"/><br/>MongoDB | <img src="https://skillicons.dev/icons?i=opencv" width="34"/><br/>OpenCV | <img src="https://skillicons.dev/icons?i=github" width="34"/><br/>GitHub |
+| <img src="https://skillicons.dev/icons?i=js" width="34"/><br/>JavaScript | <img src="https://skillicons.dev/icons?i=tailwind" width="34"/><br/>Tailwind CSS | <img src="https://skillicons.dev/icons?i=express" width="34"/><br/>Express | <img src="https://img.shields.io/badge/SQL-111a27?style=flat-square&logo=mysql&logoColor=4aa8ff" height="20"/><br/>SQL | <img src="https://img.shields.io/badge/YOLO-111a27?style=flat-square&logoColor=white" height="20"/><br/>YOLO | <img src="https://img.shields.io/badge/Jupyter-111a27?style=flat-square&logo=jupyter&logoColor=e8a33d" height="20"/><br/>Jupyter |
+| <img src="https://skillicons.dev/icons?i=html,css" width="34"/><br/>HTML / CSS | | <img src="https://img.shields.io/badge/JWT_·_RBAC-111a27?style=flat-square&logo=jsonwebtokens&logoColor=white" height="20"/><br/>JWT · RBAC | | | <img src="https://skillicons.dev/icons?i=vscode" width="34"/><br/>VS Code |
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-pratap-singh-909263333)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityyapratapsingh22)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2k24.cs1b.2413601@gmail.com)
+</div>
+
+## 04 · Machine Intelligence
+
+| Domain | Applied in practice |
+|:---|:---|
+| Computer Vision | Vehicle detection, tracking, counting and classification from traffic video with YOLO and OpenCV (YatayatAi) |
+| Deepfake Detection | Dual-branch classifier combining an EfficientNet-B0 spatial branch with a 2D-FFT frequency branch, for images and video (Sentinel) |
+| Explainable ML | Grad-CAM visual explanations for each prediction (Sentinel) |
+| Model Evaluation | Cross-generator generalisation testing rather than a single in-distribution score (Sentinel) |
+| Model Serving | PyTorch models behind FastAPI with authenticated React front ends |
+
+## 05 · Selected Work
+
+Individual projects, designed and built by me.
+
+### 01 · YatayatAi
+*AI traffic-video analytics · Individual project*
+
+AI-powered traffic video analyzer that **detects, tracks, counts and classifies vehicles using YOLO**, estimates traffic density, and visualises the analytics on a **live dashboard**. Combines an OpenCV and Python computer-vision pipeline with a TypeScript and React front end.
+
+`TypeScript` `React` `Python` `OpenCV` `YOLO` `Computer Vision`
+
+🔗 [Live](https://yatayat-ai.vercel.app/) · [Source](https://github.com/adityyapratapsingh22/YatayatAi) · MIT License <!-- add one metric here (e.g. detection accuracy or FPS) -->
+
+<br/>
+
+### 02 · Sentinel
+*Explainable deepfake detection · Individual project*
+
+**Dual-branch deepfake detector (EfficientNet-B0 + 2D FFT)** for images and video. It pairs a spatial branch with a frequency-domain branch, explains each prediction with **Grad-CAM**, and ships with real authentication and per-account scan history. The model is tested for **cross-generator generalisation**, meaning how it holds up on fakes from generators it was not trained on.
+
+`PyTorch` `Python` `FastAPI` `React` `Vite` `Tailwind CSS v4` `SQLite`
+
+🔗 [Source](https://github.com/adityyapratapsingh22/Sentinel) <!-- add a Live link here once deployed, plus your headline result (e.g. accuracy / AUC on unseen generators) -->
+
+## 06 · Experience
+
+| Organisation | Role | Period | Focus |
+|:---|:---|:---:|:---|
+| **Prodigy InfoTech** | Full-Stack Web Development Intern | [July — August 2026] | Delivered four tasks as public repositories: a JWT + RBAC auth system, an employee management dashboard, an e-commerce platform and a Socket.IO real-time chat |
+
+<!-- Add hackathons, job simulations, certifications and competitive-programming profiles here as they apply. Keep only the ones you can link or verify. -->
+
+## 07 · Telemetry
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=adityyapratapsingh22&show_icons=true&hide_border=true&bg_color=0a0f18&title_color=4aa8ff&text_color=9fb0c4&icon_color=4aa8ff" alt="GitHub statistics"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityyapratapsingh22&layout=compact&hide_border=true&bg_color=0a0f18&title_color=4aa8ff&text_color=9fb0c4" alt="Most-used languages"/>
+</p>
+
+## 08 · Contact
+
+<div align="center">
+
+| Channel | Address |
+|:---|:---|
+| GitHub | [github.com/adityyapratapsingh22](https://github.com/adityyapratapsingh22) |
+| LinkedIn | [in/aditya-pratap-singh-909263333](https://www.linkedin.com/in/aditya-pratap-singh-909263333/) |
+| Email | [2k24.cs1b.2413601@gmail.com](mailto:2k24.cs1b.2413601@gmail.com) |
+
+<br/>
+
+**Open to [internships / SDE roles] and open-source collaboration.**
+
+<br/>
+
+<sub>Kanpur, Uttar Pradesh, India</sub>
 
 </div>
