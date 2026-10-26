@@ -1,20 +1,15 @@
 <div align="center">
-
-# ADITYA PRATAP SINGH
-**Full-Stack Developer · Kanpur, India**
-
+<img width="100%" src="https://raw.githubusercontent.com/adityyapratapsingh22/adityyapratapsingh22/main/assets/profile/masthead.svg" alt="Aditya Pratap Singh — Full-Stack Developer · Applied AI · Kanpur, India"/>
 <br/>
-
 <a href="https://github.com/adityyapratapsingh22" target="_blank"><img src="https://img.shields.io/badge/GITHUB-111a27?style=for-the-badge&logo=github&logoColor=9fb0c4"/></a>
 <a href="https://www.linkedin.com/in/aditya-pratap-singh-909263333/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-111a27?style=for-the-badge&logo=linkedin&logoColor=4aa8ff"/></a>
 <a href="mailto:2k24.cs1b.2413601@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-111a27?style=for-the-badge&logo=gmail&logoColor=e8a33d"/></a>
-
+ 
 <br/><br/>
-
+ 
 <img src="https://komarev.com/ghpvc/?username=adityyapratapsingh22&style=flat-square&color=4aa8ff&label=PROFILE+VIEWS"/>
 <img src="https://img.shields.io/github/followers/adityyapratapsingh22?style=flat-square&color=111a27&labelColor=0a0f18&label=FOLLOWERS&logo=github&logoColor=9fb0c4"/>
 <img src="https://img.shields.io/github/stars/adityyapratapsingh22?style=flat-square&color=111a27&labelColor=0a0f18&label=STARS&logo=github&logoColor=9fb0c4"/>
-
 </div>
 
 ## 01 · Profile
