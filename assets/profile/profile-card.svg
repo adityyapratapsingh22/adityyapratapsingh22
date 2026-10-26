@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 392 306" width="392" height="306" role="img" aria-labelledby="t d">
+<title id="t">profile.yml</title><desc id="d">Terminal-style card showing role, location, education, status and what is being built.</desc>
+<defs>
+
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a0f18"/><stop offset="1" stop-color="#0d1726"/></linearGradient>
+<linearGradient id="card" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#101a29"/><stop offset="1" stop-color="#0b131f"/></linearGradient>
+<linearGradient id="ul" x1="0" x2="1"><stop offset="0" stop-color="#4aa8ff"/><stop offset="1" stop-color="#e8a33d"/></linearGradient>
+<linearGradient id="sweepB" x1="0" x2="1"><stop offset="0" stop-color="#4aa8ff" stop-opacity="0"/><stop offset=".5" stop-color="#4aa8ff"/><stop offset="1" stop-color="#4aa8ff" stop-opacity="0"/></linearGradient>
+<linearGradient id="sweepA" x1="0" x2="1"><stop offset="0" stop-color="#e8a33d" stop-opacity="0"/><stop offset=".5" stop-color="#e8a33d"/><stop offset="1" stop-color="#e8a33d" stop-opacity="0"/></linearGradient>
+<radialGradient id="glowB"><stop offset="0" stop-color="#4aa8ff" stop-opacity=".30"/><stop offset="1" stop-color="#4aa8ff" stop-opacity="0"/></radialGradient>
+<radialGradient id="glowA"><stop offset="0" stop-color="#e8a33d" stop-opacity=".20"/><stop offset="1" stop-color="#e8a33d" stop-opacity="0"/></radialGradient>
+<radialGradient id="heat"><stop offset="0" stop-color="#e8a33d" stop-opacity=".95"/><stop offset=".55" stop-color="#e8663d" stop-opacity=".45"/><stop offset="1" stop-color="#e8663d" stop-opacity="0"/></radialGradient>
+<filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="2.6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#4aa8ff" stroke-opacity=".06"/><animateTransform attributeName="patternTransform" type="translate" from="0 0" to="32 32" dur="9s" repeatCount="indefinite"/></pattern>
+<clipPath id="frame"><rect width="392" height="306" rx="14"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="392" height="306" fill="url(#bg)"/><rect width="392" height="306" fill="url(#grid)"/>
+<rect x="0" y="0" width="392" height="34" fill="#0f1826"/><rect x="0" y="34" width="392" height="1" fill="#1f3350"/>
+<circle cx="22" cy="17" r="5" fill="#ff5f56" opacity=".9"/>
+<circle cx="40" cy="17" r="5" fill="#ffbd2e" opacity=".9"/>
+<circle cx="58" cy="17" r="5" fill="#27c93f" opacity=".9"/>
+<text x="196.0" y="21" text-anchor="middle" font-family="'SFMono-Regular','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#9fb0c4">profile.yml</text>
+<circle cx="196" cy="150" r="140" fill="url(#glowB)" opacity=".5"><animate attributeName="cx" values="150;230;150" dur="10s" repeatCount="indefinite"/></circle>
+<text x="22" y="62" font-family="'SFMono-Regular','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5" font-weight="700" fill="#e8a33d" xml:space="preserve">profile:<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.412;1" dur="0.85s" fill="freeze"/></text>
+<text x="22" y="82" font-family="'SFMono-Regular','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5" xml:space="preserve"><tspan fill="#9fb0c4">  </tspan><tspan fill="#4aa8ff">role:      </tspan><tspan fill="#d6e6f7"> Full-Stack Developer</tspan><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.490;1" dur="0.98s" fill="freeze"/></text>
+<text x="22" y="102" font-family="'SFMono-Regular','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5" xml:space="preserve"><tspan fill="#9fb0c4">  </tspan><tspan fill="#4aa8ff">location:  </tspan><tspan fill="#d6e6f7"> Kanpur, Uttar Pradesh, India</tspan><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.550;1" dur="1.11s" fill="freeze"/></text>
+<text x="22" y="122" font-family="'SFMono-Regular','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5" xml:space="preserve"><tspan fill="#9fb0c4">  </tspan><tspan fill="#4aa8ff">education: </tspan><tspan fill="#d6e6f7"> B.Tech CSE, PSIT Kanpur</tspan><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.597;1" dur="1.24s" fill="freeze"/></text>
+<text x="22" y="162" font-family="'SFMono-Regular','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5" font-weight="700" fill="#e8a33d" xml:space="preserve">status:<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.635;1" dur="1.37s" fill="freeze"/></text>
+<text x="22" y="182" font-family="'SFMono-Regular','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5" xml:space="preserve"><tspan fill="#9fb0c4">  </tspan><tspan fill="#4aa8ff">availability: </tspan><tspan fill="#d6e6f7"> open to internships / SDE roles</tspan><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.667;1" dur="1.50s" fill="freeze"/></text>
+<text x="22" y="202" font-family="'SFMono-Regular','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5" xml:space="preserve"><tspan fill="#9fb0c4">  </tspan><tspan fill="#4aa8ff">focus:        </tspan><tspan fill="#d6e6f7"> full-stack apps with applied AI</tspan><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.693;1" dur="1.63s" fill="freeze"/></text>
+<text x="22" y="242" font-family="'SFMono-Regular','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5" font-weight="700" fill="#e8a33d" xml:space="preserve">practice:<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.716;1" dur="1.76s" fill="freeze"/></text>
+<text x="22" y="262" font-family="'SFMono-Regular','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5" xml:space="preserve"><tspan fill="#9fb0c4">  </tspan><tspan fill="#4aa8ff">building: </tspan><tspan fill="#d6e6f7"> YatayatAi, Sentinel</tspan><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.735;1" dur="1.89s" fill="freeze"/></text>
+<text x="22" y="282" font-family="'SFMono-Regular','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5" xml:space="preserve"><tspan fill="#9fb0c4">  </tspan><tspan fill="#4aa8ff">learning: </tspan><tspan fill="#d6e6f7"> DSA, Python, SQL</tspan><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.752;1" dur="2.02s" fill="freeze"/></text>
+<rect x="226.1" y="271" width="8" height="14" fill="#4aa8ff"><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;.5;.5;.99;1" dur="1.1s" repeatCount="indefinite"/></rect>
+</g>
+<rect x=".75" y=".75" width="390.5" height="304.5" rx="13.5" fill="none" stroke="#1f3350" stroke-width="1.5"/>
+</svg>

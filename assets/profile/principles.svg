@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 284" width="900" height="284" role="img" aria-labelledby="t d">
+<title id="t">Operating principles</title><desc id="d">Four operating principles as animated cards.</desc>
+<defs>
+
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a0f18"/><stop offset="1" stop-color="#0d1726"/></linearGradient>
+<linearGradient id="card" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#101a29"/><stop offset="1" stop-color="#0b131f"/></linearGradient>
+<linearGradient id="ul" x1="0" x2="1"><stop offset="0" stop-color="#4aa8ff"/><stop offset="1" stop-color="#e8a33d"/></linearGradient>
+<linearGradient id="sweepB" x1="0" x2="1"><stop offset="0" stop-color="#4aa8ff" stop-opacity="0"/><stop offset=".5" stop-color="#4aa8ff"/><stop offset="1" stop-color="#4aa8ff" stop-opacity="0"/></linearGradient>
+<linearGradient id="sweepA" x1="0" x2="1"><stop offset="0" stop-color="#e8a33d" stop-opacity="0"/><stop offset=".5" stop-color="#e8a33d"/><stop offset="1" stop-color="#e8a33d" stop-opacity="0"/></linearGradient>
+<radialGradient id="glowB"><stop offset="0" stop-color="#4aa8ff" stop-opacity=".30"/><stop offset="1" stop-color="#4aa8ff" stop-opacity="0"/></radialGradient>
+<radialGradient id="glowA"><stop offset="0" stop-color="#e8a33d" stop-opacity=".20"/><stop offset="1" stop-color="#e8a33d" stop-opacity="0"/></radialGradient>
+<radialGradient id="heat"><stop offset="0" stop-color="#e8a33d" stop-opacity=".95"/><stop offset=".55" stop-color="#e8663d" stop-opacity=".45"/><stop offset="1" stop-color="#e8663d" stop-opacity="0"/></radialGradient>
+<filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="2.6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#4aa8ff" stroke-opacity=".06"/><animateTransform attributeName="patternTransform" type="translate" from="0 0" to="32 32" dur="9s" repeatCount="indefinite"/></pattern>
+<clipPath id="frame"><rect width="900" height="284" rx="14"/></clipPath>
+<clipPath id="pc0"><rect width="436" height="132" rx="14"/></clipPath>
+<clipPath id="pc1"><rect width="436" height="132" rx="14"/></clipPath>
+<clipPath id="pc2"><rect width="436" height="132" rx="14"/></clipPath>
+<clipPath id="pc3"><rect width="436" height="132" rx="14"/></clipPath>
+</defs>
+<g transform="translate(0,0)"><g opacity="1"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.176;1" dur="0.85s" fill="freeze"/><rect width="436" height="132" rx="14" fill="url(#card)" stroke="#1f3350"/><g clip-path="url(#pc0)"><circle cx="406" cy="20" r="110" fill="url(#glowB)" opacity=".55"/><rect x="0" y="0" width="180" height="2" fill="url(#sweepB)"><animateTransform attributeName="transform" type="translate" from="-180 0" to="436 0" dur="6s" begin="0.0s" repeatCount="indefinite"/></rect>
+<rect x="0" y="22" width="3" height="88" rx="1.5" fill="#4aa8ff"><animate attributeName="opacity" values="1;.35;1" dur="3.2s" begin="0.0s" repeatCount="indefinite"/></rect>
+<text x="416" y="62" text-anchor="end" font-family="'Segoe UI','Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="52" font-weight="800" fill="#4aa8ff" fill-opacity=".10">01</text>
+<text x="26" y="40" font-family="'Segoe UI','Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="16" font-weight="700" fill="#eef5ff">Ship, then refine</text>
+<text x="26" y="68" font-family="'Segoe UI','Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="13" fill="#9fb0c4">Individual projects that run end to end, from model</text>
+<text x="26" y="88" font-family="'Segoe UI','Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="13" fill="#9fb0c4">to API to dashboard.</text>
+</g></g></g>
+<g transform="translate(464,0)"><g opacity="1"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.320;1" dur="1.03s" fill="freeze"/><rect width="436" height="132" rx="14" fill="url(#card)" stroke="#1f3350"/><g clip-path="url(#pc1)"><circle cx="406" cy="20" r="110" fill="url(#glowB)" opacity=".55"/><rect x="0" y="0" width="180" height="2" fill="url(#sweepA)"><animateTransform attributeName="transform" type="translate" from="-180 0" to="436 0" dur="6s" begin="1.3s" repeatCount="indefinite"/></rect>
+<rect x="0" y="22" width="3" height="88" rx="1.5" fill="#e8a33d"><animate attributeName="opacity" values="1;.35;1" dur="3.2s" begin="0.5s" repeatCount="indefinite"/></rect>
+<text x="416" y="62" text-anchor="end" font-family="'Segoe UI','Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="52" font-weight="800" fill="#e8a33d" fill-opacity=".10">02</text>
+<text x="26" y="40" font-family="'Segoe UI','Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="16" font-weight="700" fill="#eef5ff">Keep intelligence explainable</text>
+<text x="26" y="68" font-family="'Segoe UI','Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="13" fill="#9fb0c4">Grad-CAM heatmaps show what the deepfake detector is</text>
+<text x="26" y="88" font-family="'Segoe UI','Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="13" fill="#9fb0c4">looking at.</text>
+</g></g></g>
+<g transform="translate(0,152)"><g opacity="1"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.421;1" dur="1.21s" fill="freeze"/><rect width="436" height="132" rx="14" fill="url(#card)" stroke="#1f3350"/><g clip-path="url(#pc2)"><circle cx="406" cy="20" r="110" fill="url(#glowB)" opacity=".55"/><rect x="0" y="0" width="180" height="2" fill="url(#sweepA)"><animateTransform attributeName="transform" type="translate" from="-180 0" to="436 0" dur="6s" begin="2.6s" repeatCount="indefinite"/></rect>
+<rect x="0" y="22" width="3" height="88" rx="1.5" fill="#e8a33d"><animate attributeName="opacity" values="1;.35;1" dur="3.2s" begin="1.0s" repeatCount="indefinite"/></rect>
+<text x="416" y="62" text-anchor="end" font-family="'Segoe UI','Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="52" font-weight="800" fill="#e8a33d" fill-opacity=".10">03</text>
+<text x="26" y="40" font-family="'Segoe UI','Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="16" font-weight="700" fill="#eef5ff">Test generalisation, not just accuracy</text>
+<text x="26" y="68" font-family="'Segoe UI','Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="13" fill="#9fb0c4">Sentinel is evaluated across different deepfake</text>
+<text x="26" y="88" font-family="'Segoe UI','Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="13" fill="#9fb0c4">generators, not only the one it was trained on.</text>
+</g></g></g>
+<g transform="translate(464,152)"><g opacity="1"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.496;1" dur="1.39s" fill="freeze"/><rect width="436" height="132" rx="14" fill="url(#card)" stroke="#1f3350"/><g clip-path="url(#pc3)"><circle cx="406" cy="20" r="110" fill="url(#glowB)" opacity=".55"/><rect x="0" y="0" width="180" height="2" fill="url(#sweepB)"><animateTransform attributeName="transform" type="translate" from="-180 0" to="436 0" dur="6s" begin="3.9000000000000004s" repeatCount="indefinite"/></rect>
+<rect x="0" y="22" width="3" height="88" rx="1.5" fill="#4aa8ff"><animate attributeName="opacity" values="1;.35;1" dur="3.2s" begin="1.5s" repeatCount="indefinite"/></rect>
+<text x="416" y="62" text-anchor="end" font-family="'Segoe UI','Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="52" font-weight="800" fill="#4aa8ff" fill-opacity=".10">04</text>
+<text x="26" y="40" font-family="'Segoe UI','Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="16" font-weight="700" fill="#eef5ff">Security is structural</text>
+<text x="26" y="68" font-family="'Segoe UI','Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="13" fill="#9fb0c4">Real authentication, per-account data, JWT, RBAC,</text>
+<text x="26" y="88" font-family="'Segoe UI','Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="13" fill="#9fb0c4">hashed passwords and rate limiting from day one.</text>
+</g></g></g>
+</svg>
