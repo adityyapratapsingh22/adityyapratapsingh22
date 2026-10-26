@@ -59,21 +59,6 @@ practice:
 </tr>
 </table>
 
-### Operating principles
-
-- **Ship, then refine.** Individual projects that run end to end, from model to API to dashboard.
-- **Keep intelligence explainable.** Grad-CAM heatmaps show what the deepfake detector is looking at.
-- **Test generalisation, not just accuracy.** Sentinel is evaluated across different deepfake generators, not only the one it was trained on.
-- **Security is structural.** Real authentication, per-account data, JWT, RBAC, hashed passwords and rate limiting from day one.
-
-## 02 · Education
-
-| Programme | Institution | Result | Period |
-|:---|:---|:---:|:---:|
-| **B.Tech, Computer Science & Engineering** | Pranveer Singh Institute of Technology, Kanpur | CGPA **7.5** - 3rd year | 2024 — 2028 |
-| **Class XII** | Lzebra Public School, Kota | **80%** | 2024 |
-| **Class X** | Shiv Jyoti Convent School, Kota | **95%** | 2022 |
-
 ## 03 · Technical Systems
 
 <div align="center">
@@ -134,6 +119,14 @@ AI-powered traffic video analyzer that **detects, tracks, counts and classifies 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=adityyapratapsingh22&show_icons=true&hide_border=true&bg_color=0a0f18&title_color=4aa8ff&text_color=9fb0c4&icon_color=4aa8ff" alt="GitHub statistics"/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityyapratapsingh22&layout=compact&hide_border=true&bg_color=0a0f18&title_color=4aa8ff&text_color=9fb0c4" alt="Most-used languages"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityyapratapsingh22/adityyapratapsingh22/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityyapratapsingh22/adityyapratapsingh22/output/github-contribution-grid-snake.svg"/>
+    <img width="95%" alt="Contribution snake" src="https://raw.githubusercontent.com/adityyapratapsingh22/adityyapratapsingh22/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
 </p>
 
 ## 08 · Contact
